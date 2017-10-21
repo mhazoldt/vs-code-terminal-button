@@ -1,4 +1,4 @@
-This will add a 'Terminal' to your status bar that toggles the integrated terminal.
+This will add a 'Terminal' button to your status bar that toggles the integrated terminal.
 
 It also registers a command 'Add/Remove Terminal Button'.
 
